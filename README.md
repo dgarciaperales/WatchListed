@@ -42,3 +42,9 @@ Discover your next favorite TV show with WatchListed — a TV show recommendatio
   <img alt="Prisma" src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img alt="CockroachDB" src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white"/>
 </p>
+
+## My Individual Contributions
+• Developed the front-end user interface for a responsive web app using React, TypeScript, and Tailwind CSS, delivering personalized recommendations for 30,000+ shows and movies.
+• Integrated Clerk for secure user authentication and developed key UI components, including the navigation bar and landing pages.
+• Streamlined genre-based title retrieval through optimized server-side API calls, resulting in reduced latency and improved application
+performance, displaying results in 1-2 seconds.
