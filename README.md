@@ -44,7 +44,7 @@ Discover your next favorite TV show with WatchListed — a TV show recommendatio
 </p>
 
 ## My Individual Contributions
-• Developed the front-end user interface for a responsive web app using React, TypeScript, and Tailwind CSS, delivering personalized recommendations for 30,000+ shows and movies.
+• Developed the front-end user interface for a responsive web app using React, TypeScript, and Tailwind CSS, delivering personalized recommendations for 30,000+ shows and movies. \n
 • Integrated Clerk for secure user authentication and developed key UI components, including the navigation bar and landing pages.
 • Streamlined genre-based title retrieval through optimized server-side API calls, resulting in reduced latency and improved application
 performance, displaying results in 1-2 seconds.
